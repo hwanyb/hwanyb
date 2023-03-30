@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=hwanyb's Github&fontSize=70&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=hwanyb's%20Github&fontSize=50&fontColor=000" />
+
+
 <h2 align="center">✨ Tech Stack ✨</h2>
 
 <div align="center">
@@ -8,12 +10,8 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/styled
--DB7093?style=flat&logo=styled-components
-&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase
--FFCA28?style=flat&logo=Firebase
-&logoColor=white" />
+    <img src="https://img.shields.io/badge/styled-DB7093?style=flat&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 </div>
 
 <h2 align="center">🛠 Tools 🛠</h2>
